@@ -14,6 +14,7 @@ gotta post the solutions to problem that i would solve
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1603-running-sum-of-1d-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2556-convert-the-temperature) |
 ## Prefix Sum
@@ -89,4 +91,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
