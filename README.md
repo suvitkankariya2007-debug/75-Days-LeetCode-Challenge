@@ -6,6 +6,7 @@ gotta post the solutions to problem that i would solve
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0001-two-sum](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@ gotta post the solutions to problem that i would solve
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2383-add-two-integers) |
@@ -97,4 +99,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
