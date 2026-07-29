@@ -7,6 +7,7 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 | [0001-two-sum](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
@@ -99,6 +100,7 @@ gotta post the solutions to problem that i would solve
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
@@ -108,4 +110,5 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
