@@ -6,6 +6,7 @@ gotta post the solutions to problem that i would solve
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 | [0001-two-sum](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
@@ -32,6 +33,7 @@ gotta post the solutions to problem that i would solve
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -47,6 +49,7 @@ gotta post the solutions to problem that i would solve
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
