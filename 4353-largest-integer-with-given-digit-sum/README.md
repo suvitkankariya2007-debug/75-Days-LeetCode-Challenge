@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/largest-integer-with-given-digit-sum/">4353. Largest Integer With Given Digit Sum</a></h2><h3>Easy</h3><hr><p>You are given two non-negative integers <code>n</code> and <code>s</code>.</p>
+<h2><a href="https://leetcode.com/problems/largest-integer-with-given-digit-sum">4353. Largest Integer With Given Digit Sum</a></h2><h3>Easy</h3><hr><p>You are given two non-negative integers <code>n</code> and <code>s</code>.</p>
 
 <p>Return the <strong>largest</strong> integer that has <strong>at most</strong> <code>n</code> digits and whose sum of digits is <code>s</code>. If no such integer exists, return -1.</p>
 
