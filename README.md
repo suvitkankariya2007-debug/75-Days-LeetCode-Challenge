@@ -69,6 +69,7 @@ gotta post the solutions to problem that i would solve
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2556-convert-the-temperature) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3859-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
