@@ -64,6 +64,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -123,4 +124,8 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
