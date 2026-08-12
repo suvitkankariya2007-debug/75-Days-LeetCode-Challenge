@@ -22,6 +22,7 @@ gotta post the solutions to problem that i would solve
 | [1603-running-sum-of-1d-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
+| [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ gotta post the solutions to problem that i would solve
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0575-distribute-candies) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
+| [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ gotta post the solutions to problem that i would solve
 | [1019-squares-of-a-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
 | [3859-maximum-product-of-two-digits](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 ## Ordered Set
 |  |
 | ------- |
