@@ -131,4 +131,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0326-power-of-three) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
