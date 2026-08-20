@@ -9,6 +9,7 @@ gotta post the solutions to problem that i would solve
 | [0015-3sum](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0001-two-sum](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
@@ -67,6 +68,7 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
