@@ -41,6 +41,7 @@ gotta post the solutions to problem that i would solve
 | [0015-3sum](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0941-sort-array-by-parity) |
@@ -59,6 +60,7 @@ gotta post the solutions to problem that i would solve
 | [0015-3sum](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -86,6 +88,7 @@ gotta post the solutions to problem that i would solve
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -94,6 +97,7 @@ gotta post the solutions to problem that i would solve
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -138,5 +142,6 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
