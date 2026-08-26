@@ -64,6 +64,7 @@ gotta post the solutions to problem that i would solve
 | [0202-happy-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
@@ -144,4 +145,5 @@ gotta post the solutions to problem that i would solve
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
