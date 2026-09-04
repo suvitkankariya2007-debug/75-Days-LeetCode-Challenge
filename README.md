@@ -24,6 +24,7 @@ gotta post the solutions to problem that i would solve
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
 | [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ gotta post the solutions to problem that i would solve
 | [2556-convert-the-temperature](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3859-maximum-product-of-two-digits) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
