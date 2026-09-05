@@ -26,6 +26,7 @@ gotta post the solutions to problem that i would solve
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
 | [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4285-smallest-stable-index-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4285-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1603-running-sum-of-1d-array) |
+| [4285-smallest-stable-index-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4285-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
