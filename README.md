@@ -13,6 +13,7 @@ gotta post the solutions to problem that i would solve
 | [0001-two-sum](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0575-distribute-candies) |
@@ -148,4 +149,8 @@ gotta post the solutions to problem that i would solve
 | [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
